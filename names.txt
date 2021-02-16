@@ -1,0 +1,40 @@
+    "name": "Baton Rouge, LA",
+    "name": "Berlin, Germany",
+    "name": "Cambridge, MA",
+    "name": "Copenhagen, Denmark",
+    "name": "Elko, NV",
+    "name": "Fair Lawn, NJ",
+    "name": "Islamabad, Pakistan",
+    "name": "Köln, Germany",
+    "name": "London, United Kingdom",
+    "name": "Los Angeles, CA",
+    "name": "New York City, NY",
+    "name": "New York City, NY",
+    "name": "New York City, NY",
+    "name": "New York City, NY",
+    "name": "Pittsburgh, PA",
+    "name": "Poznań, Poland",
+    "name": "Saarbrücken, Germany",
+    "name": "San Diego, CA",
+    "name": "San Francisco, CA",
+    "name": "Seattle, WA",
+    "short_name": "Berlin"
+    "short_name": "London"
+    "short_name": "NYC"
+    "short_name": "NYC"
+    "short_name": "NYC"
+    "short_name": "NYC"
+    "short_name": "SF"
+    "short_name": "Seattle"
+    "short_name": null
+    "short_name": null
+    "short_name": null
+    "short_name": null
+    "short_name": null
+    "short_name": null
+    "short_name": null
+    "short_name": null
+    "short_name": null
+    "short_name": null
+    "short_name": null
+    "short_name": null
