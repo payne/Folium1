@@ -26,15 +26,7 @@
     "short_name": "NYC"
     "short_name": "SF"
     "short_name": "Seattle"
-    "short_name": null
-    "short_name": null
-    "short_name": null
-    "short_name": null
-    "short_name": null
-    "short_name": null
-    "short_name": null
-    "short_name": null
-    "short_name": null
-    "short_name": null
-    "short_name": null
-    "short_name": null
+    "name": "Columbia, MD",
+    "name": "New York City, NY",
+    "name": "Omaha, NE",
+    "short_name": "NYC"
