@@ -8,7 +8,7 @@ state_data = pd.read_csv(recurse_data)
 
 m = folium.Map(location=[48, -102], zoom_start=3)
 
-folium.Choropleth(
+choropleth = folium.Choropleth(
  geo_data=states,
  name='choropleth',
  data=state_data,
@@ -21,6 +21,15 @@ folium.Choropleth(
  highlight = True,
  fill_opacity=0.5
 ).add_to(m)
+
+folium.LayerControl().add_to(m)
+
+# Display Region Label
+choropleth.geojson.add_child(
+    folium.features.GeoJsonTooltip(['name'], labels=True)
+)
+
+# TODO: How to get the number of Recursers as the tool tip?
 
 
 m.save('index.html')
