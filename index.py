@@ -18,6 +18,7 @@ folium.Choropleth(
  key_on='feature.id',
  fill_color='YlGn',
  legend_name='# of Recursers',
+ highlight = True,
  fill_opacity=0.5
 ).add_to(m)
 
