@@ -1,0 +1,41 @@
+# Will need more geojson added ot the project...
+    "name": "Berlin, Germany",
+    "name": "Copenhagen, Denmark",
+    "name": "Islamabad, Pakistan",
+    "name": "Köln, Germany",
+    "name": "Poznań, Poland",
+    "short_name": "Berlin"
+    "short_name": "London"
+    "name": "Saarbrücken, Germany",
+    "name": "London, United Kingdom",
+ 
+    "name": "Baton Rouge, LA",
+    "name": "Cambridge, MA",
+    "name": "Elko, NV",
+    "name": "Fair Lawn, NJ",
+
+
+    "name": "New York City, NY",
+    "name": "New York City, NY",
+    "name": "New York City, NY",
+    "name": "New York City, NY",
+    "short_name": "NYC"
+    "short_name": "NYC"
+    "short_name": "NYC"
+    "short_name": "NYC"
+    "short_name": "NYC"
+    "name": "New York City, NY",
+
+    "name": "Pittsburgh, PA",
+
+    "name": "San Diego, CA",
+    "name": "Los Angeles, CA",
+    "name": "San Francisco, CA",
+    "short_name": "SF"
+
+    "name": "Seattle, WA",
+    "short_name": "Seattle"
+
+    "name": "Columbia, MD",
+    "name": "Omaha, NE",
+
